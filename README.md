@@ -1,4 +1,4 @@
-# 🎮 Tic‑Tac‑Toe — Web‑Based Game with Turn Timer
+# 🎮 Tic‑Tac‑Toe  Web‑Based Game with Turn Timer
 
 ## 📌 Project Overview
 This is a fully interactive **Tic‑Tac‑Toe** game built with **HTML**, **CSS**, and **JavaScript** — enhanced with a **turn‑based countdown timer** for extra challenge.  
@@ -93,7 +93,7 @@ TIC-TAC-TOE/
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/TIC-TAC-TOE.git
+   git clone https://github.com/SamiUrRehman065/Tic-tac-toe.git
    ```
 2. Navigate to the project folder:
    ```bash
