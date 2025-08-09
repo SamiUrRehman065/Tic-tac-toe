@@ -115,7 +115,6 @@ TIC-TAC-TOE/
 ## 🧑‍💻 Author
 **Name:** Sami Ur Rehman  
 **Location:** Karachi, Pakistan  
-**Background:** First‑semester Computer Programming student actively building a portfolio of beginner C++ and web projects.  
 **GitHub:** [SamiUrRehman065](https://github.com/SamiUrRehman065)  
 
 ---
