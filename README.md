@@ -93,7 +93,7 @@ TIC-TAC-TOE/
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SamiUrRehman065/Tic-tac-toe.git
+   git clone https://github.com/SamiUrRehman065/TicTacToeGame
    ```
 2. Navigate to the project folder:
    ```bash
